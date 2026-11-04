@@ -7,3 +7,5 @@ Hero section for **DodzWORKZ Cloud Storage Solutions LLC** (ACT-05), built from 
 - `assets/` – logo, settings icon and hero image exported from Figma
 
 Open `index.html` in a browser to view.
+
+
